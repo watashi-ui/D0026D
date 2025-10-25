@@ -1,1 +1,6 @@
-detta är labb 1
+<<<<<<< HEAD
+din lokala ändring
+=======
+ändring från remote/feature/lab-1
+>>>>>>> origin/feature/lab-1
+
